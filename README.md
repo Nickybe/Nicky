@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nickybittu
+- 👋 Hi, I’m @Nicky
 - 👀 I’m interested in coding
 - 🌱 I've learned data science
 - 💞️ I’m looking to collaborate on 
