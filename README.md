@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nickybittu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I've learned data science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jst dm
 
